@@ -1,7 +1,7 @@
 {
   "name": "@quasar/app",
   "version": "2.0.6",
-  "description": "Quasar Framework local CLI trigger scan",
+  "description": "Quasar Framework local CLI trigger scan 2",
   "bin": {
     "quasar": "./bin/quasar"
   },
